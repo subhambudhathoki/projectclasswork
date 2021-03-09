@@ -1,8 +1,5 @@
 #you have four miles for uni bus ko speed is 25mph and takes 10 stops 2minutes each.. then by jogging speed is 7mph for
 #1st and last mile and 15mph for middle 2 miles... find out which one is faster
-
-
-
 bussp=int(input("enter the speed of the bus"))
 tm=4
 timebus=(4/bussp)
