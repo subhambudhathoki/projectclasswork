@@ -1,0 +1,8 @@
+seconds=int(input("enter the seconds"))
+minutes=(seconds/60)
+hours=(minutes/60)
+days=(hours/24)
+print(f"seconds={seconds}")
+print(f"minutes={minutes}")
+print(f"hours={hours}")
+print(f"days={days}")
